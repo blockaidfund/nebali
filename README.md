@@ -5,13 +5,13 @@
 [keybase.txt](https://nebali.blockaid.fund/keybase.txt)
 
 <a title="Keybase" target="_blank" href="#">
-  <img src="https://badgen.net/badge/OMG%20bounty/01?list=1">
+  <img src="https://badgen.net/badge/BlockAid/01?list=1">
 </a>
 
 <a title="Keybase" target="_blank" href="#">
-  <img src="https://badgen.net/badge/OMG%20bounty/02?list=1">
+  <img src="https://badgen.net/badge/BlockAid/02?list=1">
 </a>
 
 <a title="Keybase" target="_blank" href="#">
-  <img src="https://badgen.net/badge/OMG%20bounty/03?list=1">
+  <img src="https://badgen.net/badge/BlockAid/03?list=1">
 </a>
